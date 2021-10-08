@@ -1,0 +1,58 @@
+body{
+	margin: 0;
+}
+
+
+
+header{
+	/*top: 0 !important;*/
+	background: url('img/img_header.png') no-repeat;
+	background-size: 1920px;
+	background-position: 50% 50%;
+	overfow: hidden;
+	height: 1700px;
+}
+
+header .container{
+	height: 100%;
+}
+
+.navbar a{
+	color: #ffe4b5;
+}
+
+.navbar-light .navbar-nav .nav-link {
+	color: #ffe4b5;
+}
+
+.navbar-nav{
+	width: 100%;
+	border-top: 1px solid #ffe4b5; 
+	border-bottom: 1px solid #ffe4b5;
+	margin-top: 10vh;
+
+}
+
+.navbar-toggler{
+	background: #ffe4b5;
+	margin-top: 50px;
+}
+
+
+h2{
+	font-size: 200px;
+	
+}
+
+.title{
+	color:  #ffe4b5;
+}
+
+.flex{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	    height: 130vh;
+    justify-content: end;
+	
+}
