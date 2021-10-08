@@ -2,8 +2,6 @@ body{
 	margin: 0;
 }
 
-
-
 header{
 	/*top: 0 !important;*/
 	background: url('img/img_header.png') no-repeat;
@@ -30,7 +28,6 @@ header .container{
 	border-top: 1px solid #ffe4b5; 
 	border-bottom: 1px solid #ffe4b5;
 	margin-top: 10vh;
-
 }
 
 .navbar-toggler{
@@ -52,6 +49,6 @@ h2{
 	display: flex;
 	flex-direction: column;
 	align-items: center;
-	    height: 130vh;
+	height: 130vh;
     justify-content: end
 }

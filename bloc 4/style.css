@@ -1,0 +1,34 @@
+/*STYLE CSS 
+ULYSSE
+*/
+
+body{
+	margin: 0;
+	background: black;
+}
+
+/*Background Image*/
+.bloc4{
+	top: 0 !important;
+	background: url('../img/img_bloc4.png') no-repeat;
+	background-size: 1920px;
+	background-position: 50% 50%;
+	overfow: hidden;
+	height: 1000px;
+}
+
+.flex{
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	height: 100vh;
+}
+
+/*Dots for the menu*/
+.dots::after{
+	content: "...................";
+}
+
+h3{
+	color:  #ffe4b5;;
+}
