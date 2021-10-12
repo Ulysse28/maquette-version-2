@@ -7,7 +7,7 @@ body{
 
 header{
 	/*top: 0 !important;*/
-	background: url('img/img_header.png') no-repeat;
+	background: url('/img_header.png') no-repeat;
 	background-size: 1920px;
 	background-position: 50% 50%;
 	overfow: hidden;

@@ -1,0 +1,31 @@
+body{
+	margin: 0;
+	background: black;
+	color: #ffe4b5;
+}
+
+.bloc6{
+	top: 0 !important;
+	background: url('../img/img_bloc6.png') no-repeat;
+	background-size: 1920px;
+	background-position: 50% 50%;
+	overfow: hidden;
+	height: 1300px;
+}
+
+.offer{
+	margin-top: 20vh;
+}
+
+.height{
+	margin-top: 90vh;
+}
+
+@media screen and (max-width: 900px)
+{
+	.height
+	{
+		margin-top: 100vh;
+	}
+}
+
